@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReatAppOctober23/static/css/main.073c9b0a.css",
+    "main.js": "/ReatAppOctober23/static/js/main.47b707e1.js",
+    "static/js/787.fe2a8e67.chunk.js": "/ReatAppOctober23/static/js/787.fe2a8e67.chunk.js",
+    "static/media/logo.svg": "/ReatAppOctober23/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReatAppOctober23/index.html",
+    "main.073c9b0a.css.map": "/ReatAppOctober23/static/css/main.073c9b0a.css.map",
+    "main.47b707e1.js.map": "/ReatAppOctober23/static/js/main.47b707e1.js.map",
+    "787.fe2a8e67.chunk.js.map": "/ReatAppOctober23/static/js/787.fe2a8e67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.47b707e1.js"
+  ]
+}
